@@ -1,0 +1,7 @@
+com\nexos\crudempleados\ejb\DepartamentoFacade.class
+com\nexos\crudempleados\controller\DepartamentoController.class
+com\nexos\crudempleados\util\Utilities.class
+com\nexos\crudempleados\model\Departamento.class
+com\nexos\crudempleados\model\Empleado.class
+com\nexos\crudempleados\ejb\AbstractFacade.class
+com\nexos\crudempleados\ejb\EmpleadoFacade.class
