@@ -20,6 +20,7 @@ public class Utilities {
                 addMessage(null, new FacesMessage(severity, summary, detail));
     }
 
+    @Deprecated
     public static List<String> getTiposDocumentos() {
         List<String> documentos = new ArrayList<>();
         documentos.add("RC");
